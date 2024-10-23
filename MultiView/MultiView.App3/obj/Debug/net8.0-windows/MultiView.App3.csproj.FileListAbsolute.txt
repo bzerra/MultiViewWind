@@ -1,0 +1,16 @@
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\bin\Debug\net8.0-windows\MultiView.App3.exe
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\bin\Debug\net8.0-windows\MultiView.App3.deps.json
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\bin\Debug\net8.0-windows\MultiView.App3.runtimeconfig.json
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\bin\Debug\net8.0-windows\MultiView.App3.dll
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\bin\Debug\net8.0-windows\MultiView.App3.pdb
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.Form1.resources
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.csproj.GenerateResource.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.AssemblyInfoInputs.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.AssemblyInfo.cs
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.csproj.CoreCompileInputs.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.dll
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\refint\MultiView.App3.dll
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.pdb
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\MultiView.App3.genruntimeconfig.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App3\obj\Debug\net8.0-windows\ref\MultiView.App3.dll

@@ -1,0 +1,11 @@
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.csproj.AssemblyReference.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.csproj.ResolveComReference.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App_MarkupCompile.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.g.resources
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.AssemblyInfoInputs.cache
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.AssemblyInfo.cs
+C:\Users\bezerria\OneDrive - Banco BTG Pactual S.A\Desktop\multi view\MultiView\MultiView.App\obj\Debug\net6.0-windows7.0\MultiView.App.csproj.CoreCompileInputs.cache

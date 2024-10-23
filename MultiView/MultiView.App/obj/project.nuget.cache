@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbMVVI1s7h4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bezerria\\OneDrive - Banco BTG Pactual S.A\\Desktop\\multi view\\MultiView\\MultiView.App\\MultiView.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bezerria\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\bezerria\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

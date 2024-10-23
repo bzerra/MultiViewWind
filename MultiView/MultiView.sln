@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiView.App", "MultiView.App\MultiView.App.csproj", "{DFC21855-3343-4C8A-8607-087712CEF5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiView.App3", "MultiView.App3\MultiView.App3.csproj", "{7B3EB971-901C-49CD-8F78-4F986274A312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC21855-3343-4C8A-8607-087712CEF5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC21855-3343-4C8A-8607-087712CEF5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC21855-3343-4C8A-8607-087712CEF5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC21855-3343-4C8A-8607-087712CEF5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3EB971-901C-49CD-8F78-4F986274A312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3EB971-901C-49CD-8F78-4F986274A312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3EB971-901C-49CD-8F78-4F986274A312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3EB971-901C-49CD-8F78-4F986274A312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFD1441-49F1-455B-8C0B-391619A20341}
+	EndGlobalSection
+EndGlobal
